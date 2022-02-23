@@ -827,3 +827,20 @@ ConsumerRecords<String, String> records = consumer.poll(Duration.ofSeconds(1));
 ![image-20220218182648620](/images/image-20220218182648620.png)
 
 ![image-20220218182742652](/images/image-20220218182742652.png)
+
+
+
+
+
+> **参考文档：**
+>
+> [Kafka官网](https://kafka.apache.org/)
+>
+> [2万字长文，一文搞懂Kafka](https://mp.weixin.qq.com/s/cU6fkgQH4ErTP-lKiVotrA)
+>
+> [Manor学长的KAFKA专栏](https://blog.csdn.net/xianyu120/category_10908697.html?spm=1001.2014.3001.5482)
+>
+> [详解零拷贝技术](https://mp.weixin.qq.com/s/xMVafzfIw6hlkvP8MC8VMw)
+>
+> [图解kafka](https://mp.weixin.qq.com/s/j4ThqJcc66m97IfA7C3hwg)
+

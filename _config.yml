@@ -106,6 +106,7 @@ deploy:
   - type: git
     repo: 
       github: git@github.com:licsman/licsman.github.io.git
+      coding: git@github.com:licsman/blog_code.git
     branch: master
   - type: cjh_bing_url_submitter
   - type: cjh_baidu_url_submitter
